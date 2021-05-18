@@ -1,0 +1,19 @@
+főétel,hortobágyi húsos palacsinta,850,4,meleg,magyaros
+főétel,egészben sűlt pisztráng,2590,2,hal,roston sült
+desszert,csokoládés souffle,990,3,krém,francia
+sör,pilsen urquell,740,40,csapolt,cseh
+előétel,leves,1520,5,meleg,magyaros
+főétel,csirkemell,2503,9,meleg,francia,
+desszert,krémes,1599,5,krém,francia
+sör,heineken,560,10,csapolt,magyaros
+előétel,lebbencs leves,1000,4,hideg,magyaros
+főétel,hortobágyi zöldséges palacsinta,900,4,meleg,magyaros
+főétel,félben sűlt pisztráng,3000,2,hal,roston sült
+desszert,csokoládés puding,600,3,krém,francia
+sör,pilsen barnasör,500,4,csapolt,cseh
+előétel,nem leves,3000,5,meleg,magyaros
+főétel,sertésmell,1500,9,meleg,francia,
+desszert,szilárdos,1599,5,krém,francia
+sör,heineken,560,10,csapolt,magyaros
+előétel,gyümölcs leves,850,4,hideg,magyaros
+előétel,francia leves,850,4,hideg,francia

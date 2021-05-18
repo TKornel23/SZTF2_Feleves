@@ -1,0 +1,7 @@
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\bin\Debug\HSTUTU_Féléves2.exe.config
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\bin\Debug\HSTUTU_Féléves2.exe
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\bin\Debug\HSTUTU_Féléves2.pdb
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\obj\Debug\HSTUTU_Féléves2.csprojAssemblyReference.cache
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\obj\Debug\HSTUTU_Féléves2.csproj.CoreCompileInputs.cache
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\obj\Debug\HSTUTU_Féléves2.exe
+C:\Users\Tóth Kornél\source\repos\HSTUTU_Féléves2\HSTUTU_Féléves2\obj\Debug\HSTUTU_Féléves2.pdb
